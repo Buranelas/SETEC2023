@@ -1,0 +1,210 @@
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\appsettings.json
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Mensagens.exe
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Mensagens.deps.json
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Mensagens.runtimeconfig.json
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Mensagens.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Mensagens.pdb
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\obj\Debug\net6.0\Mensagens.csproj.AssemblyReference.cache
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\obj\Debug\net6.0\Mensagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\obj\Debug\net6.0\Mensagens.AssemblyInfoInputs.cache
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\obj\Debug\net6.0\Mensagens.AssemblyInfo.cs
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\obj\Debug\net6.0\Mensagens.csproj.CoreCompileInputs.cache
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\obj\Debug\net6.0\Mensagens.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\obj\Debug\net6.0\Mensagens.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\obj\Debug\net6.0\staticwebassets\msbuild.Mensagens.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\obj\Debug\net6.0\staticwebassets\msbuild.build.Mensagens.props
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Mensagens.props
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Mensagens.props
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\obj\Debug\net6.0\scopedcss\bundle\Mensagens.styles.css
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\obj\Debug\net6.0\Mensagens.csproj.CopyComplete
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\obj\Debug\net6.0\Mensagens.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\obj\Debug\net6.0\refint\Mensagens.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\obj\Debug\net6.0\Mensagens.pdb
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\obj\Debug\net6.0\Mensagens.genruntimeconfig.cache
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\obj\Debug\net6.0\ref\Mensagens.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Humanizer.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\veran\OneDrive\Área de Trabalho\SETEC-2023\Mensagens\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\appsettings.json
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Mensagens.exe
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Mensagens.deps.json
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Mensagens.runtimeconfig.json
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Mensagens.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Mensagens.pdb
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Humanizer.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\obj\Debug\net6.0\Mensagens.csproj.AssemblyReference.cache
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\obj\Debug\net6.0\Mensagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\obj\Debug\net6.0\Mensagens.AssemblyInfoInputs.cache
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\obj\Debug\net6.0\Mensagens.AssemblyInfo.cs
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\obj\Debug\net6.0\Mensagens.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\obj\Debug\net6.0\Mensagens.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\obj\Debug\net6.0\Mensagens.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\obj\Debug\net6.0\staticwebassets\msbuild.Mensagens.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\obj\Debug\net6.0\staticwebassets\msbuild.build.Mensagens.props
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Mensagens.props
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Mensagens.props
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\obj\Debug\net6.0\scopedcss\bundle\Mensagens.styles.css
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\obj\Debug\net6.0\Mensagens.csproj.CopyComplete
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\obj\Debug\net6.0\Mensagens.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\obj\Debug\net6.0\refint\Mensagens.dll
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\obj\Debug\net6.0\Mensagens.pdb
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\obj\Debug\net6.0\Mensagens.genruntimeconfig.cache
+C:\Users\joaov\Downloads\SETEC-2023-main\SETEC-2023-main\Mensagens\obj\Debug\net6.0\ref\Mensagens.dll
